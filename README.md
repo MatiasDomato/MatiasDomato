@@ -16,9 +16,8 @@
 
 ## Mis proyectos
 
-- [Proyecto 1](enlace): 
-- [Proyecto 2](enlace): 
-- [Proyecto 3](enlace): 
+- https://github.com/MatiasDomato/ProyectoHomeBanking:
+- https://github.com/MatiasDomato/New-Style---Salon-de-Belleza
 
 ## Contacto
 
