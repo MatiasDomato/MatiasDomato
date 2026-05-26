@@ -2,25 +2,21 @@
 
 ## Desarrollador Java y Analista QA
 
-¡Bienvenido/a a mi perfil de GitHub! Soy desarrollador Java y Analista QA con experiencia en diferentes proyectos y tecnologías. Aquí encontrarás algunos de mis proyectos.
+### QA Engineer | Manual + Automation | Playwright · TypeScript · API Testing
 
-## Mis habilidades y conocimientos
+QA con experiencia en proyectos funcionales reales.
+Actualmente enfocado en automatización E2E con Playwright + TypeScript,
+API Testing y CI/CD con GitHub Actions.
 
-- Lenguajes de programación: Java, JavaScript
-- Frameworks y herramientas: Spring Boot, Selenium
-- Pruebas de software: Pruebas funcionales, pruebas de integración, pruebas automatizadas
-- Control de versiones: Git
-- Herramientas de pruebas de API: Postman
-- Bases de datos: MySQL, PostgreSQL
-- Metodologías ágiles: Scrum, Kanban
-
-## Mis proyectos
-
-- https://github.com/MatiasDomato/ProyectoHomeBanking:
-- https://github.com/MatiasDomato/New-Style---Salon-de-Belleza
+## Stack
+- ✅ Playwright + TypeScript
+- ✅ API Testing (Postman + código)
+- ✅ Page Object Model
+- ✅ GitHub Actions CI/CD
+- ✅ Jira · Testing funcional · Regresión
 
 ## Contacto
 
-Si estás interesado/a en colaborar en proyectos, discutir ideas o simplemente tener una conversación sobre desarrollo de software o pruebas de calidad, no dudes en contactarme a través de mi correo electronico matiasdomato97@gmail.com o conecta conmigo en [LinkedIn](https://www.linkedin.com/in/matias-domato-271a301b5/).
+Si estás interesado/a en colaborar en proyectos, discutir ideas o simplemente tener una conversación sobre pruebas de calidad, no dudes en contactarme a través de mi correo electronico matiasdomato97@gmail.com o conecta conmigo en [LinkedIn](https://www.linkedin.com/in/matias-domato/).
 
 ¡Gracias por tomarte el tiempo de ver mi Github, estamos en contacto 😄.
