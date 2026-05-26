@@ -1,7 +1,5 @@
 # ¡Hola, soy Matias Domato! 👋
 
-## Desarrollador Java y Analista QA
-
 ### QA Engineer | Manual + Automation | Playwright · TypeScript · API Testing
 
 QA con experiencia en proyectos funcionales reales.
